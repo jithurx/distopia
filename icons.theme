@@ -1,0 +1,19 @@
+# Distopia Icon Theme
+# Icon theme inspired by dystopian metropolis aesthetics
+
+[Icon Theme]
+Name=Distopia
+Comment=Dystopian metropolis inspired icon theme
+Inherits=Adwaita
+
+# Icon colors and styles
+# Primary color: Electric cyan (#00ffff)
+# Secondary color: Vibrant magenta (#ff00ff)
+# Accent color: Crimson red (#dc143c)
+# Background: Deep charcoal gray (#222226)
+
+# Icon sizes
+Directories=16,22,24,32,48,64,96,128,256,512
+
+# Icon categories
+Categories=Applications;Development;Education;Games;Graphics;Internet;Multimedia;Office;System;Utility

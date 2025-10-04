@@ -1,0 +1,84 @@
+/* Distopia Theme for Walker */
+/* Application launcher styling */
+
+window {
+    background-color: #222226;
+    border: 2px solid #00ffff;
+    border-radius: 12px;
+    color: #00ffff;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 14px;
+    box-shadow: 0 0 30px rgba(0, 255, 255, 0.4);
+}
+
+#input {
+    background-color: #3a404a;
+    border: 1px solid #00ffff;
+    border-radius: 8px;
+    color: #00ffff;
+    font-size: 16px;
+    padding: 8px 12px;
+    margin: 8px;
+    text-shadow: 0 0 4px #00ffff;
+}
+
+#input:focus {
+    border-color: #ff00ff;
+    box-shadow: 0 0 8px rgba(255, 0, 255, 0.5);
+}
+
+#inner-box {
+    background-color: transparent;
+    margin: 8px;
+}
+
+#outer-box {
+    background-color: #222226;
+    border-radius: 12px;
+    margin: 0;
+}
+
+#scroll {
+    background-color: #3a404a;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+#text {
+    color: #00ffff;
+    font-size: 14px;
+    padding: 4px 8px;
+    text-shadow: 0 0 2px #00ffff;
+}
+
+#text:selected {
+    background-color: #ff00ff;
+    color: #222226;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+#entry {
+    background-color: transparent;
+    border-radius: 6px;
+    margin: 2px;
+    padding: 4px 8px;
+}
+
+#entry:selected {
+    background-color: #ff00ff;
+    color: #222226;
+}
+
+#entry:selected #text {
+    color: #222226;
+    text-shadow: none;
+}
+
+#img {
+    margin-right: 8px;
+}
+
+#img:selected {
+    background-color: #ff00ff;
+}

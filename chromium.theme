@@ -1,0 +1,37 @@
+# Distopia Theme for Chromium
+# Color scheme inspired by dystopian metropolis aesthetics
+
+# Base colors
+background_color = "#222226"
+foreground_color = "#00ffff"
+
+# Accent colors
+accent_color = "#00ffff"
+accent_color_dark = "#4169e1"
+
+# Text colors
+text_color = "#00ffff"
+text_color_secondary = "#8a6662"
+
+# Border colors
+border_color = "#3a404a"
+border_color_active = "#00ffff"
+
+# Button colors
+button_color = "#3a404a"
+button_color_hover = "#4a444b"
+button_text_color = "#00ffff"
+
+# Link colors
+link_color = "#4169e1"
+link_color_hover = "#00ffff"
+link_color_visited = "#ff00ff"
+
+# Selection colors
+selection_background = "#ff00ff"
+selection_foreground = "#222226"
+
+# Scrollbar colors
+scrollbar_color = "#3a404a"
+scrollbar_color_hover = "#4a444b"
+scrollbar_color_active = "#00ffff"

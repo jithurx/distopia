@@ -1,0 +1,50 @@
+# Main background - Deep charcoal gray
+theme[main_bg]="#222226"
+
+# Main text color - Electric cyan
+theme[main_fg]="#00ffff"
+
+# Title color for boxes - Electric cyan
+theme[title]="#00ffff"
+
+# Highlight color for keyboard shortcuts - Bright lemon yellow
+theme[hi_fg]="#f0f046"
+
+# Background color of selected items - Vibrant magenta
+theme[selected_bg]="#ff00ff"
+
+# Foreground color of selected items - Deep charcoal gray
+theme[selected_fg]="#222226"
+
+# Color of inactive/disabled text - Dusky rose
+theme[inactive_fg]="#8a6662"
+
+# Color of text appearing on top of graphs - Crimson red
+theme[graph_text]="#dc143c"
+
+# Misc colors for processes box - Neon green
+theme[proc_misc]="#39ff14"
+
+# Cpu box outline color - Electric cyan
+theme[cpu_box]="#00ffff"
+
+# Memory/disks box outline color - Neon green
+theme[mem_box]="#39ff14"
+
+# Net up/down box outline color - Vibrant magenta
+theme[net_box]="#ff00ff"
+
+# Processes box outline color - Intense electric blue
+theme[proc_box]="#4169e1"
+
+# Box divider line and small boxes line color - Crimson red
+theme[div_line]="#dc143c"
+
+# Ensures squared corners and braille graphs
+rounded_corners= "False"
+graph_symbol= "braille"
+graph_symbol_cpu = "braille"
+graph_symbol_gpu = "braille"
+graph_symbol_mem = "braille"
+graph_symbol_net = "braille"
+graph_symbol_proc = "braille"
